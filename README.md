@@ -1,3 +1,8 @@
+# NOTICE
+
+This plugin is heavily unfinished, at this point of time i dont know if it still works. any interest shown to this plugin i will consider continueing it again.
+
 # DynamicCombat
 
-This plugin is heavily unfinished, at this point of time i dont know if it still works. any interest shown to this plugin i will consider continueing it again
+This plugin was inspired by a specific java plugin (i cant remember the name) it aims to add a ton of new gear and cool weapons to use.
+i believed this had a dedicated RP to go along with it. if i find it i will post it
