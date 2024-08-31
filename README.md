@@ -4,5 +4,5 @@ This plugin is heavily unfinished, at this point of time i dont know if it still
 
 # DynamicCombat
 
-This plugin was inspired by a specific java plugin (i cant remember the name) it aims to add a ton of new gear and cool weapons to use.
+This plugin was inspired by a specific java mod (i cant remember the name) it aims to add a ton of new gear and cool weapons to use.
 i believed this had a dedicated RP to go along with it. if i find it i will post it
